@@ -1,0 +1,12 @@
+.form-cont{
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid rgba(106, 95, 95, 0.984);
+    padding: 20px;
+    border-radius: 7px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 10px;
+}

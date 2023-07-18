@@ -1,0 +1,27 @@
+#table-cont {
+    margin-top: 100px;
+    border: 1px solid rgba(106, 95, 95, 0.984);
+    padding: 20px;
+    border-radius: 7px;
+    width: 60%;
+}
+
+table {
+    border: 1px solid #ccc;
+}
+
+.complete{
+    border: none;
+    border-radius: 3px;
+    background-color: blue;
+    color: white;
+    margin-left: 5px;
+}
+
+.delete{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    margin-left: 5px;
+}

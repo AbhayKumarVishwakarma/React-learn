@@ -1,0 +1,14 @@
+.nav{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(231, 179, 34);
+    align-items: center;
+    align-content: center;
+}
+.nav-heading{
+    width: 16%;
+    display: flex;
+    justify-content: space-between;
+}
